@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rajendra-sahu
-- 👀 I’m interested in kernel/firmware/system software programming 
+- 👀 I’m interested in architecture modleing & system software 
 - 🌱 I’m currently learning Advanced concecpts in OS & Memory Systems
 - 💞️ I’m looking to collaborate on open source kernels.
-- 📫 How to reach me rpsahu@tamu.edu/rajendra.1995plus@gmail.com
+- 📫 How to reach me rpsahu@tamu.edu or https://www.linkedin.com/in/rajendra-sahu/
 
 <!---
 rajendra-sahu/rajendra-sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
